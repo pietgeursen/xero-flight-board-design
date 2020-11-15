@@ -21,6 +21,8 @@
 
 ## Data Model
 
+![datamodel](XeroFlightBoardDb.jpg)
+
 - Airline employees can:
   - Create / edit a `flight`, `flight_schedule`s and `status_update`s
   - A flight can have many schedules.
@@ -31,6 +33,8 @@
 - The `airport` table is seeded with all the [iata](https://en.wikipedia.org/wiki/IATA_airport_code) codes for airports.
 
 ## System Model
+
+![system](XeroFlightBoardStack.jpg)
 
 ## Estimate
 
